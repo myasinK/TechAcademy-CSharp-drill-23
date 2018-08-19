@@ -1,0 +1,7 @@
+C:\Users\Yasin\TechAcademy\vs-tour\TextIO\TextIO\bin\Debug\TextIO.exe.config
+C:\Users\Yasin\TechAcademy\vs-tour\TextIO\TextIO\bin\Debug\TextIO.exe
+C:\Users\Yasin\TechAcademy\vs-tour\TextIO\TextIO\bin\Debug\TextIO.pdb
+C:\Users\Yasin\TechAcademy\vs-tour\TextIO\TextIO\obj\Debug\TextIO.csprojAssemblyReference.cache
+C:\Users\Yasin\TechAcademy\vs-tour\TextIO\TextIO\obj\Debug\TextIO.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\TechAcademy\vs-tour\TextIO\TextIO\obj\Debug\TextIO.exe
+C:\Users\Yasin\TechAcademy\vs-tour\TextIO\TextIO\obj\Debug\TextIO.pdb
